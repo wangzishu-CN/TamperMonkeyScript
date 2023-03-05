@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         SkeyeySnowPointPlus
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/wangzishu-CN/SkeyeySnow/blob/main/SkeyeySnowPointPlus.js
+// @supportURL   https://github.com/wangzishu-CN/SkeyeySnow/issues
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  让天雪数值更加易懂
+// @author       wangzishu-CN
 // @match        https://skyeysnow.com/home.php?mod=spacecp&ac=credit&showcredit=1
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=skyeysnow.com
 // @grant        none
